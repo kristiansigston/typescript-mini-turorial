@@ -1,9 +1,6 @@
 import { User } from './classes/user'
 import { Company } from './classes/company'
 
-// do not commit api key has been added to index.html
-// for googlemaps that is
-
 import { CustomMap } from './classes/customMap'
 
 const createMap = () => {
